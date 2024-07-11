@@ -14,8 +14,8 @@ project "yaml-cpp"
     }
 
     filter "system:windows"
-    systemversion "latest"
-    cppdialect "C++17"
+        systemversion "latest"
+        cppdialect "C++17"
 
     filter "system:linux"
         pic "On"
