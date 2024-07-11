@@ -20,7 +20,7 @@ project "yaml-cpp"
 
     defines
     {
-        "YAML_CPP_STATIC_DEFINE",
+        "YAML_CPP_STATIC_DEFINE"
     }
 
     filter "system:windows"
